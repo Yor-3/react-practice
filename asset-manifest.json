@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yor-3/react-practice.git/static/css/main.073c9b0a.css",
+    "main.js": "/Yor-3/react-practice.git/static/js/main.c60b84e3.js",
+    "static/js/787.fb0d23e0.chunk.js": "/Yor-3/react-practice.git/static/js/787.fb0d23e0.chunk.js",
+    "static/media/logo.svg": "/Yor-3/react-practice.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Yor-3/react-practice.git/index.html",
+    "main.073c9b0a.css.map": "/Yor-3/react-practice.git/static/css/main.073c9b0a.css.map",
+    "main.c60b84e3.js.map": "/Yor-3/react-practice.git/static/js/main.c60b84e3.js.map",
+    "787.fb0d23e0.chunk.js.map": "/Yor-3/react-practice.git/static/js/787.fb0d23e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c60b84e3.js"
+  ]
+}
